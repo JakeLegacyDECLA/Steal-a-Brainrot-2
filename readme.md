@@ -30,6 +30,9 @@ Ejecuta el siguiente comando en la terminal:
 
 `g++ main.cpp  -std=c++11 -o segundo_avance` 
 
+Es necesario ingresar en terminal/consola el path del archivo CSV una vez corriendo el programa para poder ingresar una lista de personajes por default.
+IMPORTANTE: Si tu computadora genera los paths tipo: "C:\hola\hola.cpp" talvez tengas que cambiar los "\" por "/", normalmente la consola no acepta paths con "\".
+
 ## Instrucciones para ejecutar el avance de proyecto
 Ejecuta el siguiente comando en la terminal:
 
